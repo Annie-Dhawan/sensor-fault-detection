@@ -1,0 +1,14 @@
+from-root
+dill
+PyYAML
+scikit-learn
+sklearn
+pandas
+scipy
+imblearn
+xgboost
+fastapi
+uvicorn
+starlette
+xpython-multipart
+-e .
